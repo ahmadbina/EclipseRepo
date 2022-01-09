@@ -24,6 +24,9 @@ public class FirstClass {
 		
 		sb.reverse();
 		System.out.println(String.valueOf(sb).equals(sh));
-	}
+	System.out.println("================================");
+System.out.println(Integer.MAX_VALUE);
+System.out.println(Integer.MIN_VALUE);
 
+}
 }
